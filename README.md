@@ -3,11 +3,11 @@
 
 # RandWod
 
-Get a random [GoRuck](goruck.com) “sand” workout
+Get a random [GoRuck](https://goruck.com) “sand” workout
 
 ## Usage
 
 You can view this app at
-[bradleylindblad.shinyapps.io/RandWod](bradleylindblad.shinyapps.io/RandWod)
+[bradleylindblad.shinyapps.io/RandWod](https://bradleylindblad.shinyapps.io/RandWod)
 
 *Not affiliated wit GoRuck in any form*
