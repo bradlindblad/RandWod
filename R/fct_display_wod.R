@@ -31,7 +31,7 @@ display_wod <- function(...) {
     dplyr::pull(url) |>
     trimws()
 
-  c <- paste0('<a href="', c, '">Youtube Instructions</a>')
+  c <- paste0('<a href="', c, '" target = "_blank">Youtube Instructions</a>')
 
   paste(
     a, "<br/>",  b, "<br/>", "<br/>",  c, "</br><em>Screenshot this workout to bring with you</em>"
